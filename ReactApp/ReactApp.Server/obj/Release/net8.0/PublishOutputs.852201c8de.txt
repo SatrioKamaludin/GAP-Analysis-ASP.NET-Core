@@ -1,0 +1,12 @@
+C:\Users\Satrio Kamaludin\source\repos\ReactApp\ReactApp.Server\obj\Release\net8.0\PubTmp\Out\ReactApp.Server.exe
+C:\Users\Satrio Kamaludin\source\repos\ReactApp\ReactApp.Server\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Satrio Kamaludin\source\repos\ReactApp\ReactApp.Server\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Satrio Kamaludin\source\repos\ReactApp\ReactApp.Server\obj\Release\net8.0\PubTmp\Out\ReactApp.Server.dll
+C:\Users\Satrio Kamaludin\source\repos\ReactApp\ReactApp.Server\obj\Release\net8.0\PubTmp\Out\ReactApp.Server.deps.json
+C:\Users\Satrio Kamaludin\source\repos\ReactApp\ReactApp.Server\obj\Release\net8.0\PubTmp\Out\ReactApp.Server.runtimeconfig.json
+C:\Users\Satrio Kamaludin\source\repos\ReactApp\ReactApp.Server\obj\Release\net8.0\PubTmp\Out\ReactApp.Server.pdb
+C:\Users\Satrio Kamaludin\source\repos\ReactApp\ReactApp.Server\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\Satrio Kamaludin\source\repos\ReactApp\ReactApp.Server\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Satrio Kamaludin\source\repos\ReactApp\ReactApp.Server\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Satrio Kamaludin\source\repos\ReactApp\ReactApp.Server\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Satrio Kamaludin\source\repos\ReactApp\ReactApp.Server\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

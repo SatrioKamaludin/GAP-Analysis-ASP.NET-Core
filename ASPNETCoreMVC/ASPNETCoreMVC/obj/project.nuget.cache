@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uz5rKJXAHL5OoAqguM1n+0PChAraUxX6PYIU8l8/J7+yGShgbSlPrBRj8ozG68t0b9h0P0Pp1BTLoGrF8elmnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Satrio Kamaludin\\source\\repos\\ASPNETCoreMVC\\ASPNETCoreMVC\\ASPNETCoreMVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Satrio Kamaludin\\.nuget\\packages\\microsoft.typescript.msbuild\\5.4.2\\microsoft.typescript.msbuild.5.4.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Satrio Kamaludin\\source\\repos\\ASPNETCoreMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E156DC5B-882F-434C-8C35-BFC7C9CB734A}|ASPNETCoreMVC\\ASPNETCoreMVC.csproj|c:\\users\\satrio kamaludin\\source\\repos\\aspnetcoremvc\\aspnetcoremvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E156DC5B-882F-434C-8C35-BFC7C9CB734A}|ASPNETCoreMVC\\ASPNETCoreMVC.csproj|solutionrelative:aspnetcoremvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E156DC5B-882F-434C-8C35-BFC7C9CB734A}|ASPNETCoreMVC\\ASPNETCoreMVC.csproj|c:\\users\\satrio kamaludin\\source\\repos\\aspnetcoremvc\\aspnetcoremvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E156DC5B-882F-434C-8C35-BFC7C9CB734A}|ASPNETCoreMVC\\ASPNETCoreMVC.csproj|solutionrelative:aspnetcoremvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E156DC5B-882F-434C-8C35-BFC7C9CB734A}|ASPNETCoreMVC\\ASPNETCoreMVC.csproj|c:\\users\\satrio kamaludin\\source\\repos\\aspnetcoremvc\\aspnetcoremvc\\scripts\\app.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E156DC5B-882F-434C-8C35-BFC7C9CB734A}|ASPNETCoreMVC\\ASPNETCoreMVC.csproj|solutionrelative:aspnetcoremvc\\scripts\\app.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E156DC5B-882F-434C-8C35-BFC7C9CB734A}|ASPNETCoreMVC\\ASPNETCoreMVC.csproj|c:\\users\\satrio kamaludin\\source\\repos\\aspnetcoremvc\\aspnetcoremvc\\jsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E156DC5B-882F-434C-8C35-BFC7C9CB734A}|ASPNETCoreMVC\\ASPNETCoreMVC.csproj|solutionrelative:aspnetcoremvc\\jsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E156DC5B-882F-434C-8C35-BFC7C9CB734A}|ASPNETCoreMVC\\ASPNETCoreMVC.csproj|c:\\users\\satrio kamaludin\\source\\repos\\aspnetcoremvc\\aspnetcoremvc\\aspnetcoremvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E156DC5B-882F-434C-8C35-BFC7C9CB734A}|ASPNETCoreMVC\\ASPNETCoreMVC.csproj|solutionrelative:aspnetcoremvc\\aspnetcoremvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Satrio Kamaludin\\source\\repos\\ASPNETCoreMVC\\ASPNETCoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ASPNETCoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Satrio Kamaludin\\source\\repos\\ASPNETCoreMVC\\ASPNETCoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ASPNETCoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAAC8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T08:49:03.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Satrio Kamaludin\\source\\repos\\ASPNETCoreMVC\\ASPNETCoreMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASPNETCoreMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Satrio Kamaludin\\source\\repos\\ASPNETCoreMVC\\ASPNETCoreMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ASPNETCoreMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T08:48:32.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.ts",
+              "DocumentMoniker": "C:\\Users\\Satrio Kamaludin\\source\\repos\\ASPNETCoreMVC\\ASPNETCoreMVC\\scripts\\app.ts",
+              "RelativeDocumentMoniker": "ASPNETCoreMVC\\scripts\\app.ts",
+              "ToolTip": "C:\\Users\\Satrio Kamaludin\\source\\repos\\ASPNETCoreMVC\\ASPNETCoreMVC\\scripts\\app.ts",
+              "RelativeToolTip": "ASPNETCoreMVC\\scripts\\app.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-07T08:47:50.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ASPNETCoreMVC",
+              "DocumentMoniker": "C:\\Users\\Satrio Kamaludin\\source\\repos\\ASPNETCoreMVC\\ASPNETCoreMVC\\ASPNETCoreMVC.csproj",
+              "RelativeDocumentMoniker": "ASPNETCoreMVC\\ASPNETCoreMVC.csproj",
+              "ToolTip": "C:\\Users\\Satrio Kamaludin\\source\\repos\\ASPNETCoreMVC\\ASPNETCoreMVC\\ASPNETCoreMVC.csproj",
+              "RelativeToolTip": "ASPNETCoreMVC\\ASPNETCoreMVC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-07T08:46:02.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "jsconfig.json",
+              "DocumentMoniker": "C:\\Users\\Satrio Kamaludin\\source\\repos\\ASPNETCoreMVC\\ASPNETCoreMVC\\jsconfig.json",
+              "RelativeDocumentMoniker": "ASPNETCoreMVC\\jsconfig.json",
+              "ToolTip": "C:\\Users\\Satrio Kamaludin\\source\\repos\\ASPNETCoreMVC\\ASPNETCoreMVC\\jsconfig.json",
+              "RelativeToolTip": "ASPNETCoreMVC\\jsconfig.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-07T08:46:31.615Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
